@@ -1,5 +1,5 @@
 # YOUTUBE Chatbot
-A yotube chatbot based in a finite state machine.
+A yotube chatbot based on a finite state machine.
 
 ## Setup
 
